@@ -6,6 +6,8 @@ import SongList from './components/SongList';
 
 function App() {
   // this is an edit
+  // another comment
+  // third comment
   return (
     <div className="App">
       <ExampleComponent />
